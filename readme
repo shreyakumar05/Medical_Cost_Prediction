@@ -1,1 +1,4 @@
-In this project, I will be going through the data of medical history. In order to understand the data better, I will perform an indepth explaratory data analysis to this dataset. The data-set has been acquired from Kaggle. Though this data set is small, our aim is to completely understand the data and select the best machine learning model for the prediction. We will predict the medical cost of patients. So, I have performed EDA and further created a model best suitable for this project.
+In this project, I will be going through the data of medical history. 
+In order to understand the data better, I will perform an indepth explaratory data analysis to this dataset. 
+The data-set has been acquired from Kaggle. Though this data set is small, our aim is to completely understand the data and select the best machine learning model for the prediction. 
+We will predict the medical cost of patients. So, I have performed EDA and further created a model best suitable for this project.
